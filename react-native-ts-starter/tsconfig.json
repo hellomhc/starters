@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "baseUrl": ".",
+    "jsx": "react-native",
+    "lib": ["dom", "esnext"],
+    "moduleResolution": "node",
+    "noEmit": true,
+    "paths": {
+      "*": ["src/*"],
+      "assets": ["assets/*"],
+      "components": ["components/*"],
+      "screens": ["screens/*"],
+      "styles": ["styles/*"],
+      "utils": ["utils/*"]
+    },
+    "skipLibCheck": true,
+    "resolveJsonModule": true
+  }
+}
