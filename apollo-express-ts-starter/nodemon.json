@@ -1,0 +1,8 @@
+{
+  "exec": "ts-node -r dotenv/config ./src/index.ts dotenv_config_path=.env.development",
+  "ext": "ts, graphql",
+  "verbose": true,
+  "watch": [
+    "src"
+  ]
+}
