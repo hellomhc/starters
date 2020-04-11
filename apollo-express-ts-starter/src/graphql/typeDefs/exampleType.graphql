@@ -1,0 +1,8 @@
+type Query {
+  example: Example
+}
+
+type Example {
+  id: ID!
+  name: String!
+}
