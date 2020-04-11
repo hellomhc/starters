@@ -1,0 +1,9 @@
+{
+  "name": "apollo-express-ts-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "2.0.4"
+  }
+}
